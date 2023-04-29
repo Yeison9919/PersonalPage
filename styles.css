@@ -1,0 +1,25 @@
+body {
+    
+    background-color: whitesmoke;
+}
+
+hr {
+    border-style:none;
+    border-top-style:dotted;
+    width: 25px;
+    border-width: 5px;
+    border-color: rgb(201, 201, 201);
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color:#66BFBF
+}
+
+.img-1 {
+
+    border-radius: 50px;
+    }
